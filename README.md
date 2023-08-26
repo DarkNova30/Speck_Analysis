@@ -27,18 +27,18 @@ before you begin, ensure you have the following prerequisites:
 - pip (Python package manager, version 22.3.1)
 
 ## Code Structure
-- `models/`: Contains the ResNet model implementations.
-- ``: Contains the DenseNet model implementations.
-- `speck/`: Includes the SPECK 32/64 cipher algorithm implementation.
+- `ResNetModel.ipynb`: Contains the ResNet model implementations.
+- `DenseNetModel.ipynb`: Contains the DenseNet model implementations.
+- `speck.ipynb`: Includes the SPECK 32/64 cipher algorithm implementation.
 - `visualizations/`: Scripts for visualizing results.
 
 ## Usage
 To run the analysis using ResNet or Dense Net:
 
-import the ResNet model `resnet.ipynb` or the DenseNet model `DenseNet.ipynb` on google colab and upload the Speck file `speck3264.py` locally.
+import the ResNet model `ResNetModel.ipynb` or the DenseNet model `DenseNetModel.ipynb` on google colab and upload the Speck file `speck.ipynb` locally.
 Run the notebook individually to see the performance of the models.
 
-To visualise and compare both of the model's performances, import `visual.iypnb` on google colab and upload the speck file `speck3264.py` locally, Run this notebook for the visual
+To visualise and compare both of the model's performances, import `visual.iypnb` on google colab and upload the speck file `speck.ipynb` locally, Run this notebook for the visual
 Comparison.
 
 By default the code runs for Round-5 Encryption (nr=5). To compare for higher rounds, increase the value of nr to 6,7,8 subsequently.
