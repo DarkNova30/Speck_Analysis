@@ -1,6 +1,6 @@
 # Differential Cryptanalysis of SPECK 32/64 Cipher using Deep Learning
 
-A comparitive analysis of ResNet and DenseNet architectures for analyzing the security of SPECK 32/64 lightweight block cipher through differential cryptanalysis. This repository holds data and code for the paper: "Comparative Analysis of ResNet and DenseNet for Differential Cryptanalysis of SPECK 32/64 Lightweight Block Cipher"
+A comparitive analysis of ResNet and DenseNet architectures for analyzing the security of SPECK 32/64 lightweight block cipher through differential cryptanalysis. This repository holds data and code for the paper: "Comparative Analysis of ResNet and DenseNet for Differential Cryptanalysis of SPECK 32/64 Lightweight Block Cipher". https://eprint.iacr.org/2023/1290
 
 ## Table of Contents
 - [Introduction](#introduction)
